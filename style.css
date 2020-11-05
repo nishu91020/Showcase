@@ -1,0 +1,108 @@
+body,html{
+    padding:0%;
+    margin:0%;
+}
+#first{
+    margin-top:0%;
+    background-color: #107A8B;
+    text-align:center;
+    height: 100vh;
+
+}
+.name{
+    position: absolute;
+    width: 323px;
+    height: 87px;
+    left: 558.5px;
+    top: 323px;
+    
+    font-family: Italianno;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 110%;
+    /* or 110px */
+    
+    
+    color: #FFFFFF;
+    
+}
+.line{
+    position: absolute;
+    width: 895px;
+    height: 0px;
+    left: 272.5px;
+    top: 418px;
+    
+    border: 1px solid #FFFFFF;
+    }
+.thought{
+    position: absolute;
+    width: 736px;
+    height: 61px;
+    left: 352px;
+    top: 428px;
+    
+    font-family: Italianno;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 110%;
+    /* or 70px */
+    
+    
+    color: #FFFFFF;
+}
+.photo{
+    position: absolute;
+width: 200px;
+height: 200px;
+left: 620px;
+top:100px;
+
+background: url(nishu.jpg);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 300px;
+}
+.rect{
+    position: absolute;
+    height:100;
+    left: 1100px;
+    top: 568px;
+}
+.resume{
+    position: absolute;
+width: 170px;
+height: 50px;
+left: 635px;
+top: 550px;
+}
+#second{
+    margin-top:0%;
+    text-align:center;
+    height: 100vh;
+
+}
+.introhead{
+    position: absolute;
+    width: 315px;
+    height: 88px;
+    left: 437px;
+    top: 680px;
+    
+    font-family: Italianno;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    line-height: 110%;
+}
+.line1{
+    position: absolute;
+    width: 500px;
+    height: 0px;
+    left: 344px;
+    top: 770px;
+    
+    border: 1px solid #107A8B;
+}
