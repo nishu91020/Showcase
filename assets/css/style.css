@@ -69,7 +69,7 @@ border-radius: 300px;
     position: absolute;
     height:100;
     left: 1100px;
-    top: 565px;
+    top: 568px;
 }
 .resume{
     position: absolute;
@@ -78,8 +78,6 @@ height: 50px;
 left: 635px;
 top: 550px;
 }
-
-/*second page*/
 #second{
     margin-top:0%;
     text-align:center;
@@ -91,7 +89,7 @@ top: 550px;
     width: 315px;
     height: 88px;
     left: 437px;
-    top: 600px;
+    top: 680px;
     
     font-family: Italianno;
     font-style: normal;
@@ -105,8 +103,39 @@ top: 550px;
     height: 0px;
     left: 344px;
     top: 770px;
+    
     border: 1px solid #107A8B;
 }
 .education{
-    margin-top:5%;
+    position: absolute;
+    top:780px;
+    margin-left:10%;
+
+}
+
+table,tr,th,td{
+    font-family:sans-serif;
+    border:2px solid black;
+    margin:10%;
+}
+tr,th,td{
+    width:250px;
+    height:50px;
+}
+table{
+    position: absolute;
+    top:700px;
+    
+}
+.Hobbies{
+    position:absolute;
+    margin-left:-40%;
+    top:1100px;
+
+}
+.hob{
+margin-top:38%;
+}
+#hobe{
+    margin:1%;
 }
