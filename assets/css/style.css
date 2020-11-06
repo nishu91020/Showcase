@@ -134,8 +134,33 @@ table{
 
 }
 .hob{
-margin-top:38%;
+margin-top:40%;
+margin-left: -10%;
 }
 #hobe{
     margin:1%;
+}
+#third{
+    height:100vh;
+}
+
+.skills{
+    left:30%;
+}
+.linep{
+    position: absolute;
+    width: 800px;
+    height: 0px;
+    left: 20%;
+    top: 1930px;
+    
+    border: 1px solid #107A8B;
+}
+.project{
+    left:-100%;
+}
+.pro{
+    margin:0%;
+    padding:0%;
+
 }
