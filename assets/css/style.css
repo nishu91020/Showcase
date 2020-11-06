@@ -157,10 +157,28 @@ margin-left: -10%;
     border: 1px solid #107A8B;
 }
 .project{
+    top:20%;
     left:-100%;
 }
 .pro{
+    left:-20%;
     margin:0%;
     padding:0%;
 
+}
+#p1{
+    margin:1%;
+    width:20%;
+}
+.certifications{
+    margin:2%;
+}
+#c1{
+    width:25%;
+}
+#fourth{
+    height:100vh;
+}
+.head4{
+    margin-top:22%;
 }
