@@ -170,6 +170,11 @@ margin-left: -10%;
     margin:1%;
     width:20%;
 }
+.p1:hover{
+    -moz-box-shadow: #000000;
+    -webkit-box-shadow: #000000;
+    box-shadow: #000000;
+}
 .certifications{
     margin:2%;
 }
@@ -181,4 +186,24 @@ margin-left: -10%;
 }
 .head4{
     margin-top:22%;
+}
+#set1{
+    padding:2%;
+}
+#set2{
+    padding:3%;
+}
+.Responsibility{
+    
+}
+#r1{
+    border:black 2px solid;
+    font-weight:900;
+
+    font-size:20px;
+    border-radius:15px 50px 15px; 
+    width:40%;
+    padding:0.5%;
+    margin:2%;
+    display: block;
 }
